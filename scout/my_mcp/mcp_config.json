@@ -3,7 +3,7 @@
         "dataflow": {
             "command": "python",
             "args": [
-                "/Users/kennethliao/projects/tutorials/mcp-intro/scout/my_mcp/local_servers/dataflow.py"
+                "/Users/shaheer/projects/tutorials/mcp-intro/scout/my_mcp/local_servers/dataflow.py"
             ],
             "transport": "stdio"
         },
