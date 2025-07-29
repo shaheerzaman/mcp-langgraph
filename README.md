@@ -114,7 +114,3 @@ You can extend this project by:
 2. Modifying the system prompt in `graph.py`
 3. Adding new tools to the agent
 4. Customizing the conversation flow
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
